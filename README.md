@@ -1,1 +1,1 @@
-# Serverless-Email-Auditor-POC-
+# Serverless-Email-Auditor-POC
